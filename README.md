@@ -19,6 +19,7 @@
 ## React concepts you will learn 📝
 - useEffect (to perform side effects)
 - HTTP requests with Fetch API
+- HTTP requests with Nested Fetch API
 - Passing data to components via props
 - Conditional chaining operator (?)
 
